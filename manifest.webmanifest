@@ -1,36 +1,24 @@
 {
-  "name": "Becklan BMS V11 Professional",
+  "name": "Becklan Management System V12.0",
   "short_name": "Becklan BMS",
-  "description": "Secure staff access to the Becklan Management System.",
-  "start_url": "./",
+  "description": "Becklan Drugstore staff access application",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0b6b3a",
+  "background_color": "#eef5f9",
+  "theme_color": "#1666a8",
   "icons": [
     {
-      "src": "icons/becklan-icon-192.png",
+      "src": "./icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
-      "src": "icons/becklan-icon-512.png",
+      "src": "./icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/becklan-maskable-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/becklan-maskable-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ]
 }
