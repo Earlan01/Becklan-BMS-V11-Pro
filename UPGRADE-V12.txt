@@ -1,1 +1,0 @@
-Upload all files in this package to the root of the existing Becklan GitHub repository. Replace old frontend files. Keep the existing repository name if you want the GitHub Pages link to stay the same. config.js is prefilled with the existing Apps Script /exec URL.
